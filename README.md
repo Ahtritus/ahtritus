@@ -98,9 +98,11 @@
   <img src="https://streak-stats.demolab.com?user=Ahtritus&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-![](https://github-readme-stats.vercel.app/api?username=utsav00&count_private=true&show_icons=true&hide=stars)
+![](https://github-readme-stats.vercel.app/api?username=Ahtritus&count_private=true&show_icons=true)
 
-<sup>*Stats generated from [README Stats](https://github.com/anuraghazra/github-readme-stats)*. </sup>
+<div align="center">
+  <sup>*Stats generated from [README Stats](https://github.com/anuraghazra/github-readme-stats)*. </sup>
+</div>
 
 
 ###
