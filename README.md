@@ -28,6 +28,10 @@
 
 ###
 
+[![An image of @ahtritus's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ahtritus)](https://holopin.io/@ahtritus)
+
+###
+
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
@@ -113,4 +117,3 @@
 
 ###
 
-[![An image of @ahtritus's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ahtritus)](https://holopin.io/@ahtritus)
